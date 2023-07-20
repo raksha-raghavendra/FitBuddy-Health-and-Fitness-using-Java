@@ -1,0 +1,11 @@
+What is BMI? 
+
+The body mass index is an estimation of a person's body fat, according to the National Institutes of Health. To calculate BMI, divide your weight (in pounds) by your height (in inches) squared, and then multiply that number by a conversion factor of 703. This same calculation can be used when measuring weight in kilograms and height in meters, but no conversion factor is needed. 
+
+For most individuals, a BMI between 18.5 and 24.9 means that their weight is normal, or "acceptable," according to the Centers for Disease Control and Prevention (CDC). A BMI between 25.0 and 29.9 means a person is overweight, and those with a BMI over 30.0 are considered obese. 
+
+Those whose BMI puts them in the "overweight" category should consider losing weight if they also have two or more health risk factors, such as smoking, inactivity or high blood pressure, according to Katherine Tallmadge, a registered dietitian and author of the book "Diet Simple: 195 Mental Tricks, Substitutions, Habits & Inspirations” (Lifeline Press, 2011). 
+
+"The evidence is solid that the risk for various cardiovascular [diseases], cancer, arthritis and other disease starts to rise at a BMI of 25," Tallmadge told Live Science, "This is why experts try to encourage people to be at a BMI between 18.5 and 24.9. Men tend to be at the higher end of the scale and women toward the middle and lower end, but your desired weight may vary depending on your personal [and] health goals."
+
+
